@@ -1,0 +1,12 @@
+# 忽略遥感影像与中间结果
+*.tif
+*.tiff
+*.npy
+*.npz
+
+# 忽略 Python 缓存
+__pycache__/
+*.pyc
+
+
+
