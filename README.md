@@ -1,4 +1,4 @@
-# 1973年北京遥感影像建筑提取
+# 1973年北京遥感影像提取
 
 基于Python的历史遥感影像建筑物自动提取工具，实现三种不同的提取方法进行对比。
 
@@ -52,4 +52,5 @@ python visualize_results.py
 - `result_comparison.png` - 四宫格对比图（原图 + 三种方法）
 - `result_method*.png` - 各方法的原图vs结果对比
 - `result_masks.png` - 纯建筑掩膜图（白色=建筑）
+
 
